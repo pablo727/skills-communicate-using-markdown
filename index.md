@@ -1,11 +1,7 @@
-# This is H1 header
+# This is the Yaktocat
 
-## This H2 header
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-### This is H3 header
+## Coding is an art
 
-#### This is H4 header
-
-##### This is H5 header
-
-###### This is H6 header
+![Coding is an art quote](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codecademy.com%2Fresources%2Fblog%2Finspirational-coding-quotes%2F&psig=AOvVaw3NWXnCJtmhiisDdy1rJt9Y&ust=1732367397717000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjSnP6B8IkDFQAAAAAdAAAAABAE)
