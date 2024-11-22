@@ -2,6 +2,13 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-## Coding is an art
+## Python code
 
-![Coding is an art quote](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codecademy.com%2Fresources%2Fblog%2Finspirational-coding-quotes%2F&psig=AOvVaw3NWXnCJtmhiisDdy1rJt9Y&ust=1732367397717000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjSnP6B8IkDFQAAAAAdAAAAABAE)
+![Python code image](https://i.pinimg.com/736x/cc/4d/1d/cc4d1d1ec11b16435ee71bbf7a349c42.jpg)
+
+```python
+try:
+    print(5/0)    # ZeroDivisionError: division by zero.
+except ZeroDivisionError:
+    print("You can't divide by zero!")
+```
