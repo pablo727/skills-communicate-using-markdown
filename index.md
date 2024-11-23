@@ -1,12 +1,12 @@
 # This is the Yaktocat
-```HTML
+
 <img src="https://octodex.github.com/images/yaktocat.png" alt="Image of Yaktocat" style="width: 90%; max-width: 800px; margin: 10px auto; display: block;">
-```
+
 
 # Python code
-```HTML
+
 <img src="https://i.pinimg.com/736x/cc/4d/1d/cc4d1d1ec11b16435ee71bbf7a349c42.jpg" alt="Python code image" style="width: 90%; max-width: 800px; margin: 10px auto; display: block;">
-```
+
 
 ```python
 try:
